@@ -2,4 +2,4 @@
  
 Here contains All my prectice code which are required to my project  
 
-I Practice By spliting small-small codes which help me to better understand 
+I Practice By spliting small-small codes which help me to better understand  

@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;
+using namespace std; 
 
 #pragma pack(1)
 class node
